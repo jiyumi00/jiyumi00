@@ -3,8 +3,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyumi00&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyumi00)](https://solved.ac/jiyumi00/)
 
-# LANGUAGES
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+# 💪Skills
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 <!--
 **jiyumi00/jiyumi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
