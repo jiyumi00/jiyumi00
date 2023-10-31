@@ -1,7 +1,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyumi00&count_bg=%23FFDA63&title_bg=%239EA09C&icon=&icon_color=%23FFE14D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyumi00&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyumi00)](https://solved.ac/jiyumi00/)
