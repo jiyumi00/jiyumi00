@@ -5,7 +5,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyumi00&show_icons=true&theme=vue)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyumi00)](https://solved.ac/jiyumi00/)
+
 
 
 
@@ -22,7 +22,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-7CBDEE.svg?&style=for-the-badge&logo=react&logoColor=white)
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyumi00)](https://solved.ac/jiyumi00/)
 <!--
 **jiyumi00/jiyumi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
