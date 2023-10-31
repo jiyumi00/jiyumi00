@@ -1,4 +1,4 @@
-# 😀
+# 👩🏻‍💻 Think long, Code short
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyumi00&count_bg=%23FFDA63&title_bg=%239EA09C&icon=&icon_color=%23FFE14D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
