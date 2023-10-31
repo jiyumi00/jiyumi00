@@ -1,9 +1,11 @@
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyumi00&count_bg=%23FFDA63&title_bg=%239EA09C&icon=&icon_color=%23FFE14D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyumi00&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyumi00)](https://solved.ac/jiyumi00/)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 # 🌱Skills
 ### Languages
