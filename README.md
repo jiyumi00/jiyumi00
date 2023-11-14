@@ -2,6 +2,15 @@
 
 ![snake gif](https://github.com/jiyumi00/jiyumi00/blob/output/github-contribution-grid-snake.svg)
 
+
+
+
+
+
+
+
+
+
 # 💭 Think long, Code short ⌨️
 
 
