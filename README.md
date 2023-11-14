@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiyumi00&count_bg=%23FFDA63&title_bg=%239EA09C&icon=&icon_color=%23FFE14D&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![snake gif](https://github.com/jiyumi00/jiyumi00/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
@@ -20,7 +20,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyumi00&show_icons=true&theme=vue)
 
 
-
+![snake gif](https://github.com/jiyumi00/jiyumi00/blob/output/github-contribution-grid-snake.svg)
 
 
 # 🌱Skills
