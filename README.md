@@ -10,8 +10,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyumi00&show_icons=true&theme=vue)
 
 
-![snake gif](https://github.com/jiyumi00/jiyumi00/blob/output/github-contribution-grid-snake.svg)
-
 
 # 🌱Skills
 ### Platforms & Languages
