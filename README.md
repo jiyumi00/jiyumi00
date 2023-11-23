@@ -4,7 +4,7 @@
 # 💭 Think long, Code short ⌨️
 
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyumi00&show_icons=true&theme=vue)
